@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/saeeds/libraryRepository#readme",
   "dependencies": {
+    "chalk": "^2.4.2",
     "express": "^4.17.1"
   }
 }
